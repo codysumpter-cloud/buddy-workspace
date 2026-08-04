@@ -1,3 +1,18 @@
+> # ⚠️ This repository is archived and superseded
+>
+> **buddy-workspace has been retired as part of the Prismtek consolidation into [codysumpter-cloud/prismtek-apps](https://github.com/codysumpter-cloud/prismtek-apps).**
+>
+> Canonical location: **codysumpter-cloud/prismtek-apps**
+>
+> Reference fork of outsourc-e/hermes-workspace. The 244-line Prismtek branding delta is preserved as docs/migrations/patches/buddy-workspace-prismtek-delta.patch in prismtek-apps rather than vendoring the upstream tree. Upstream remains at outsourc-e/hermes-workspace.
+>
+> - Audit record: [`docs/migrations/buddy-workspace.yaml`](https://github.com/codysumpter-cloud/prismtek-apps/blob/main/docs/migrations/buddy-workspace.yaml)
+> - Consolidation tracker: [prismtek-apps#359](https://github.com/codysumpter-cloud/prismtek-apps/issues/359)
+> - prismtek-apps revision at archive time: `f47023186c67e649378734ee80a158a022dbb941`
+>
+> Kept read-only for history and provenance. **Do not open new work here.**
+> The tag `pre-archive-final` marks the exact final state of the default branch.
+
 <div align="center">
 
 <img src="./public/claude-avatar.webp" alt="Hermes Workspace" width="80" style="border-radius: 16px" />
